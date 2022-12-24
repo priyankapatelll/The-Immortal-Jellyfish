@@ -1,0 +1,59 @@
+
+#main {
+	color: teal;
+	text-align: center;
+	font-size: 125px;
+	font-family: avenir;
+}
+#body {
+    background-color: black;
+    color: teal;
+    font-family: "avenir";
+    font-size: 50px;
+}
+#title {
+	color: orange;
+	text-align: center;
+	font-family: avenir next condensed;
+}
+#image {
+	max-width: 60%;
+	display: block;
+}
+#img-caption {
+	color: gray;
+	font-size: 31px;
+	margin: 0px 0px 0px 0px;
+}
+#tribute-info {
+	margin: 50px 0px 0px 50px;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+#tribute-link {
+	font-size: 24px;
+	text-align: left;
+	color: gray;
+}
+#headline {
+	font-size: 30px;
+	text-indent: 30px; 
+	margin: 150px 0px 60px 0px;
+}
+
+a {
+	color: gray;
+	font-size: 20px;
+}
+
+ul {
+	font-size: 31px;
+	color: teal;
+	max-width: 1000px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+	text-indent: 50px
+}
